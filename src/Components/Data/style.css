@@ -1,0 +1,14 @@
+.chart{
+    color:black;
+    padding: 0.5rem 3rem;
+}
+.p{
+    color: black;
+    position: absolute;
+    top :50px;
+    left:200px;
+}
+.pic{
+    background-color: white;
+    border-radius: 10px;
+}

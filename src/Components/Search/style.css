@@ -1,0 +1,33 @@
+
+/* style.css */
+
+.main {
+    padding: 20px;
+    background-color: white;
+  }
+  
+  .trend {
+    color:black;
+    
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sub {
+    color:black;
+    display: flex;
+    align-items: center; /* Align items vertically */
+    margin-bottom: 10px;
+  }
+  
+  .sub img {
+    width: 30px; /* Adjust the width as needed */
+    height: 30px; /* Adjust the height as needed */
+    margin-right: 10px; /* Add some spacing between the image and text */
+  }
+  
